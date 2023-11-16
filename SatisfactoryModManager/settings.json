@@ -1,16 +1,24 @@
 {
     "filters": {
-        "modFilters": "Installed",
+        "modFilters": "Compatible",
         "sortBy": "Last updated"
     },
     "windowLocation": {
         "x": 133,
-        "y": 54
+        "y": 0
     },
     "selectedProfile": {
         "C:\\Games\\Steam\\steamapps\\common\\Satisfactory": "0.8"
     },
     "viewedAnnouncements": [
         "FEWG3WFa567LS5"
-    ]
+    ],
+    "normalSize": {
+        "width": 550,
+        "height": 1080
+    },
+    "expandedSize": {
+        "width": 1575,
+        "height": 1080
+    }
 }
