@@ -1,11 +1,11 @@
 {
     "filters": {
-        "modFilters": "Compatible",
-        "sortBy": "Hotness"
+        "modFilters": "Installed",
+        "sortBy": "Popularity"
     },
     "windowLocation": {
-        "x": 133,
-        "y": 0
+        "x": -8,
+        "y": -8
     },
     "selectedProfile": {
         "C:\\Games\\Steam\\steamapps\\common\\Satisfactory": "0.8"
@@ -15,10 +15,11 @@
     ],
     "normalSize": {
         "width": 550,
-        "height": 1080
+        "height": 1096
     },
     "expandedSize": {
-        "width": 1575,
-        "height": 1080
-    }
+        "width": 1874,
+        "height": 1096
+    },
+    "maximized": true
 }
