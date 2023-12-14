@@ -1,14 +1,14 @@
 {
     "filters": {
         "modFilters": "Installed",
-        "sortBy": "Last updated"
+        "sortBy": "Hotness"
     },
     "windowLocation": {
         "x": -8,
         "y": -8
     },
     "selectedProfile": {
-        "C:\\Games\\Steam\\steamapps\\common\\Satisfactory": "0.8"
+        "C:\\Games\\Steam\\steamapps\\common\\Satisfactory": "0.8.3.3"
     },
     "viewedAnnouncements": [
         "FEWG3WFa567LS5"
